@@ -4,4 +4,4 @@ In this repository, I will share my "fake" portals.
 Use on your own responsibility.
 #### Avaiable portals: 
 
- - [Claro WiFI](/claro)
+ - [Claro WiFI](/claro) - (Instagram)
